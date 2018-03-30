@@ -35,6 +35,6 @@
   {
     "array": [5, 4, 3, 2, 1],
     "comparator": "descending",
-    "expected": false
+    "expected": true
   }
 ]
