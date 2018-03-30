@@ -7,7 +7,7 @@
   "author": "xcxerxes",
   "license": "MIT",
   "scripts": {
-    "test": "node test.js"
+    "test": "node ./test/index.js"
   },
   "devDependencies": {
     "tape": "^4.9.0"
