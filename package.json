@@ -1,0 +1,12 @@
+{
+  "name": "xcxerxes-sorted",
+  "version": "1.0.1",
+  "description": "node array sort npm manger",
+  "main": "index.js",
+  "keywords": "node array sort",
+  "author": "xcxerxes",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.9.0"
+  }
+}
